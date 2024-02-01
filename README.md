@@ -1,2 +1,2 @@
 # Todo-list
-A MERN todo lsit 
+A MERN todo list app 
